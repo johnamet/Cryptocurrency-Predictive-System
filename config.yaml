@@ -1,0 +1,14 @@
+data_sources:
+  kucoin:
+    api_key: "67b7e19945e41a000165c956"
+    api_secret: "9c331c6d-ec7c-4b35-94d6-b3c21d6e4279"
+  x:
+    keywords: ["bitcoin", "btc"]
+    max_tweets: 1000
+
+altcoins:
+  - "BTC-USDT"
+  - "ETH-USDT"
+  - "XRP-USDT"
+intervals:
+  - "1h"
